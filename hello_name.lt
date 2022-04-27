@@ -1,0 +1,7 @@
+name = ""
+while (len(name) == 0) {
+    print("What is your name?")
+    name = input()
+}
+print("Hello " + str(name))
+
