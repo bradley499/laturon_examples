@@ -15,4 +15,3 @@ function fibonacci(max, output) {
 }
 total = 50
 print("The " + str(total) + "th Fibonacci number is: " + str(fibonacci(total, false)))
-
