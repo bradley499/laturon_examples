@@ -1,8 +1,12 @@
+# Fibonacci sequence written in Laturon
+#
+# Created by Bradley Marshall
+
 function fibonacci(max, output) {
     n1 = 0
     n2 = 1
     count = 0
-    while (count < max){
+    while (count < max) {
         if (output) {
             print(n1)
         }

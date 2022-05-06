@@ -1,3 +1,8 @@
+# Hello name written in Laturon
+# An example program to take in a user input and then output it
+#
+# Created by Bradley Marshall
+
 name = ""
 while (len(name) == 0) {
     print("What is your name?")
